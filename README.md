@@ -1,7 +1,9 @@
 # Nebulous: Persistent Campaign Save Tools
 
-**Persistent Campaign** allows GM's to run multi-session, persistent campaigns in *Nebulous: Fleet Command*. 
+**Persistent Campaign** allows GM's to run multi-session, persistent campaigns in *Nebulous: Fleet Command*.
+
 **Mod essentially does nothing as is, it's a tool for GM's**
+
 By hooking into the deployment screen, this mod reads an externally made save file and injects prior battle damage, expended ammunition, and destroyed modules directly into skirmish/mp lobbies. You control the data carried over by editing the file as needed. If some data is deleted, the fleet will take .fleet data normally.
 
 

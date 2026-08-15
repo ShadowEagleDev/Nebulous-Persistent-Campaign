@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+
+lib/
+
+mod-folder/*.dll

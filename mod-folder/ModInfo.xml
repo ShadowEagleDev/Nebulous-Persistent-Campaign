@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModName>Persistent Campaign Save Tools</ModName>
+  <ModDescription>Autosaves the skirmish match at the end(for host only), dumps the file into the save folder. Tries to load PersistentFleet.save from save folder at match start for every client (everyone needs the mod for syncing). </ModDescription>
+  <ModVer>0.1.3</ModVer>
+  <Assemblies>
+    <string>0Harmony.dll</string>
+    <string>PersistentCampaign.dll</string>
+    <string>Mono.Cecil.dll</string>
+    <string>MonoMod.RuntimeDetour.dll</string>
+    <string>MonoMod.Utils.dll</string>
+  </Assemblies>
+  <PreviewImage>G:\Steam\steamapps\common\Nebulous\Mods\PersistentCampaign\preview.png</PreviewImage>
+  <GameVer>0.6.2</GameVer>
+</ModInfo>
